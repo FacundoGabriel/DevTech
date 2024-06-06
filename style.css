@@ -773,7 +773,6 @@ select{
     animation: float 2s ease-in-out infinite;
     display: none;
     text-align: center;
-    display: flex;
 }
 
 @keyframes float {
