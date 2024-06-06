@@ -1,0 +1,51 @@
+.escritorio-media{
+    display: flex;
+    flex-direction: row;
+    gap: 100px;
+    width: 100%;
+}
+
+.main-nosotros-info{
+    display: flex;
+    flex-direction: column;
+    height: 600px;
+    align-items: center;
+
+}
+
+.servicios-container--card{
+    min-width: 380px
+}
+
+.main-nosotros-info p{
+    font-size: 2rem;
+}
+
+.servicios-info-container h3{
+    margin-top: 20px;
+    font-size: 2.8rem;
+}
+
+.servicios-info-container img{
+    width: 130px;
+    height: 130px;
+}
+
+.servicios-info-container p{
+    font-size: 1.6rem;
+}
+
+.servicios-container--slider{
+    overflow-x: auto;
+}
+
+.main-servicios--btn{
+    align-items: center;
+    text-align: center;
+    /* padding: 20px 0 25px 0 ; */
+}
+
+.main-planes-container--slider{
+    justify-content: center;
+    overflow-x: auto
+}
