@@ -65,3 +65,14 @@ select, textarea{
 .btn-enviar{
     width: 350px;
 }
+
+
+.main-nosotros--img, .servicios-container--card, .elegirnos--img, .img-contacto {
+    transition: transform ease-in-out 0.5s;
+}
+
+.main-nosotros--img:hover, .servicios-container--card:hover, .elegirnos--img:hover, .img-contacto:hover{
+    transform: translateY(-6%);
+}
+
+
