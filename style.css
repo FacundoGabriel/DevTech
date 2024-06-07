@@ -730,7 +730,7 @@ select{
 .error{
     width: 100%;
     min-width: 250px;
-    max-width: 250px;
+    max-width: 350px;
     padding: 8px;
     background-color: #c53030;
     color: #fff;
@@ -744,14 +744,13 @@ select{
 .correcto{
     width: 100%;
     min-width: 250px;
-    max-width: 250px;
+    max-width: 350px;
     padding: 8px;
     background-color: #22c55e;
     color: #fff;
     font-size: 1.2rem;
     font-weight: bold;
     text-transform: uppercase;
-    margin: 0 auto;
 }
 
 
