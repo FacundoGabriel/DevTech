@@ -219,11 +219,6 @@ document.addEventListener('DOMContentLoaded', () => {
         }, 3000);
         
         
-        const response = grecaptcha.getResponse();
-
-            if (response.length === 0) {
-                alert("Por favor, completa el reCAPTCHA.");
-            }
     
     }
 
