@@ -182,7 +182,6 @@ main{
     background-color: var(--off-white);
     border-radius: 15px;
     box-shadow: 0 4px 8px rgba(89, 73, 30, 0.16);
-    transition: transform ease-in-out 0.5s;
 }
 
 .pagos-absolute{
@@ -200,11 +199,6 @@ main{
     text-transform: uppercase;
 
 }
-
-.servicios-container--card:hover{
-    transform: translateY(-6%);
-}
-
 
 .servicios-info-container h3{
     padding: 30px 0 15px 0;
@@ -346,14 +340,7 @@ main{
     background-repeat: no-repeat;
     border-top-left-radius: 20px;
     border-top-right-radius: 20px;
-    transition: transform ease-in-out 0.5s;
 }
-
-.elegirnos--img:hover{
-    transform: translateY(-6%);
-}
-
-
 .footer-img-tittle i{
     width: 250px;
 }
@@ -694,12 +681,6 @@ select{
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    transition: transform ease 0.5s;
-
-}
-
-.img-contacto:hover{
-    transform: translateY(-6%);
 }
 
 .btn-enviar{
