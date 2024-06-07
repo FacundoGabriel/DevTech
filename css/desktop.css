@@ -8,9 +8,9 @@
 .main-nosotros-info{
     display: flex;
     flex-direction: column;
-    height: 600px;
+    height: 400px;
     align-items: center;
-
+    text-align: left;
 }
 
 .servicios-container--card{
