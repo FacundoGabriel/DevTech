@@ -192,7 +192,7 @@ main{
     left: calc(50% - 70px);
     font-size: 1.6rem;
     background-color: #1a9af7;
-    color: #171717;
+    color: #fff;
     padding-top: 8px;
     border-radius: 15px;
     font-weight: bold;
