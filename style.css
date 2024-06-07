@@ -433,13 +433,8 @@ footer .footer-left ul, .footer-rigth ul{
     background-color: var(--off-white);
     border-radius: 10px;
     box-shadow: 0 4px 8px rgba(89, 73, 30, 0.16);
-    transition: all ease-in-out 0.5s;
 }
 
-.planes--card:hover{
-    transform: translateY(-3%);
-    
-}
 
 .btn-precios{
     display: flex;
@@ -509,7 +504,7 @@ footer .footer-left ul, .footer-rigth ul{
 
 
 .plan-info-container ul{
-    min-height: 520px;
+    min-height: 580px;
     display: flex;
     flex-direction: column;
     gap: 15px;
