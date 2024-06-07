@@ -131,12 +131,8 @@ main{
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    transition: transform ease-in-out 0.5s;
 }
 
-.main-nosotros--img:hover{
-    transform: translateY(-6%);
-}
 
 .main-nosotros-info{
     width: 90%;
