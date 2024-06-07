@@ -7,6 +7,7 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&display=swap" rel="stylesheet">
     <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+    <link rel="preload" href="img/nosotros.webp" as="image">
     <link rel="stylesheet" href="style.css">
     <link rel="stylesheet" href="css/tablet.css" media="(min-width: 767px)">
     <link rel="stylesheet" href="css/desktop.css" media="(min-width: 1023px)">
@@ -66,7 +67,7 @@
                     <div class="servicios-info-container">
                         <h3>Plan Básico</h3>
 
-                        <img src="img/landing-page.webp" alt="Img-Plan-Basico">
+                        <img src="img/plan-basico.webp" alt="Img-Plan-Basico">
 
                         <p>Un plan básico es una página web diseñada específicamente para convertir visitantes en clientes potenciales o clientes. Generalmente, tiene un diseño simple y atractivo, destacado para capturar la información del visitante.</p>
                     </div>
@@ -79,7 +80,7 @@
                     <div class="servicios-info-container">
                         <h3>Plan Avanzado</h3>
 
-                        <img src="img/web-empresarial.webp" alt="Img-Plan-Avanzado">
+                        <img src="img/plan-avanzado.webp" alt="Img-Plan-Avanzado">
     
                         <p>Una página web con el plan avanzado es un sitio en línea creado para representar a una empresa, organización o marca en Internet. Estas páginas suelen contener información detallada sobre los productos o servicios ofrecidos, así como datos de contacto y otra información relevante para los clientes potenciales.</p>
                     </div>
@@ -92,7 +93,7 @@
                     <div class="servicios-info-container">
                         <h3>Mantenimiento</h3>
 
-                        <img src="img/mantenimiento.webp" alt="Img-Mantenimiento">
+                        <img src="img/plan-mantenimiento.webp" alt="Img-Mantenimiento">
     
                         <p>Nuestro servicio de mantenimiento web se encarga de mantener tu sitio en perfecto funcionamiento. Esto incluye la solución de errores, actualizaciones regulares, y mantenimiento general para asegurar que tu página esté siempre actualizada, segura y operativas todo el tiempo.</p>
                     </div>
